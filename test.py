@@ -93,6 +93,7 @@ plt.title("Multipath Fading")
 plt.savefig("exp7.jpeg")
 plt.grid()
 plt.show()
+#max min variation time below deep fade wavelength 
 
 
 import numpy as np
@@ -120,6 +121,8 @@ plt.savefig("image.jpeg")
 plt.grid()
 plt.legend()
 plt.show()
+
+
 
 
 
